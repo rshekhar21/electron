@@ -19,16 +19,29 @@ function createWindow() {
     // Check for updates
     autoUpdater.checkForUpdatesAndNotify();    
     log.info('started');
+    log.info('App Verein ' + app.getVersion());
 }
 
 app.on('ready', createWindow);
 
+autoUpdater.on('checking-for-update', ()=>{
+    log.info('checking-for-updates...');
+})
+
+autoUpdater.on('update-not-available', ()=>{
+    log.info('no updates avaliable');
+})
+
 autoUpdater.on('update-available', () => {
-    console.log('Update available.');
+    log.info('Update available.');
 });
 
+autoUpdater.on('download-progress', (progress)=>{
+    log.info('downloaded ' + progress);
+})
+
 autoUpdater.on('error', (err) => {
-    console.error('Error in auto-updater:', err);
+    log.info('Error in auto-updater:', err);
 });
 
 
