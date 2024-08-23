@@ -1,7 +1,8 @@
 const { app, BrowserWindow } = require('electron');
 const { autoUpdater } = require('electron-updater');
 const path = require('path');
-
+const log = require('electron-log');
+log.transports.file.resolvePathFn = () => path.join('C:/Users/RAJ/test-projects/electorn-app', 'logs/main.log');
 
 
 function createWindow() {
@@ -17,6 +18,7 @@ function createWindow() {
 
     // Check for updates
     autoUpdater.checkForUpdatesAndNotify();    
+    log.info('started');
 }
 
 app.on('ready', createWindow);

@@ -32,16 +32,16 @@
       "createStartMenuShortcut": true,
       "shortcutName": "TEST"
     },
-    "publish": [{
-      "provider": "github",
-      "protocol": "https",
-      "owner": "rshekhar21",
-      "releaseType": "release",
-      "private": false,
-      "channel": "latest",
-      "vPrefixedTagName": true,
-      "host": "github.com"
-    }]
+    "publish": [
+      {
+        "provider": "github",
+        "owner": "rshekhar21",
+        "releaseType": "release",
+        "private": false,
+        "channel": "latest",
+        "vPrefixedTagName": true
+      }
+    ]
   },
   "keywords": [],
   "author": "Raj Shekhar Singh",
@@ -52,6 +52,7 @@
     "electron-builder": "^24.13.3"
   },
   "dependencies": {
+    "electron-log": "^5.1.7",
     "electron-updater": "^6.2.1"
   }
 }
