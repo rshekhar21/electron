@@ -1,4 +1,4 @@
-const { app, BrowserWindow } = require('electron');
+const { app, BrowserWindow, dialog } = require('electron');
 const { autoUpdater } = require('electron-updater');
 const path = require('path');
 const log = require('electron-log');
@@ -36,8 +36,8 @@ autoUpdater.on('update-available', () => {
     log.info('Update available.');
 });
 
-autoUpdater.on('download-progress', (progress)=>{
-    log.info('downloaded ' + progress);
+autoUpdater.on('download-progress', (percent)=>{
+    log.info('downloaded ' + percent);
 })
 
 autoUpdater.on('error', (err) => {
