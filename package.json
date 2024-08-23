@@ -1,0 +1,51 @@
+{
+  "name": "electorn-app",
+  "version": "1.0.1",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron .",
+    "build": "electron-builder",
+    "release": "electron-builder --publish=always"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/rshekhar21/electron"
+  },
+  "build": {
+    "appId": "com.example.app",
+    "win": {
+      "target": [
+        "nsis"
+      ],
+      "icon": "icon.ico"
+    },
+    "nsis": {
+      "oneClick": false,
+      "installerIcon": "icon.ico",
+      "uninstallerIcon": "icon.ico",
+      "uninstallDisplayName": "uninstaller",
+      "license": "license.md",
+      "allowToChangeInstallationDirectory": true,
+      "runAfterFinish": true,
+      "createStartMenuShortcut": true,
+      "shortcutName": "EBS"
+    },
+    "publish": [{
+      "provider": "github",
+      "owner": "rshekhar21",
+      "releaseType": "release",
+      "private": false
+    }]
+  },
+  "keywords": [],
+  "author": "Raj Shekhar Singh",
+  "license": "ISC",
+  "description": "My Electron App",
+  "devDependencies": {
+    "electron": "^32.0.1",
+    "electron-builder": "^24.13.3"
+  },
+  "dependencies": {
+    "electron-updater": "^6.2.1"
+  }
+}

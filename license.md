@@ -1,0 +1,1 @@
+The following is the license term you need to accept before using this software.
