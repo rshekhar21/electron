@@ -37,7 +37,9 @@ autoUpdater.on('update-available', () => {
 });
 
 autoUpdater.on('download-progress', (progressObj) => {
-    log.info('downloaded ' + progressObj.percent);
+    log.info('downloaded ' + Math.round(progressObj.percent) + '%');
+    log.info('Total ' + progressObj.transferred + '/' + progressObj.total)
+    log_message = log_message + ' (' + progressObj.transferred + '/' + progressObj.total + ')'
 })
 
 autoUpdater.on('error', (err) => {
