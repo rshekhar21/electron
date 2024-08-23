@@ -36,7 +36,7 @@ autoUpdater.on('update-available', () => {
     log.info('Update available.');
 });
 
-autoUpdater.on('download-progress', (percent)=>{
+autoUpdater.on('download-progress', ({percent})=>{
     log.info('downloaded ' + percent);
 })
 
