@@ -1,6 +1,6 @@
 {
   "name": "electorn-app",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "start": "electron .",
@@ -13,6 +13,8 @@
   },
   "build": {
     "appId": "com.example.app",
+    "asar": true,
+    "asarUnpack": "unpack",
     "win": {
       "target": [
         "nsis"
@@ -28,13 +30,17 @@
       "allowToChangeInstallationDirectory": true,
       "runAfterFinish": true,
       "createStartMenuShortcut": true,
-      "shortcutName": "EBS"
+      "shortcutName": "TEST"
     },
     "publish": [{
       "provider": "github",
+      "protocol": "https",
       "owner": "rshekhar21",
       "releaseType": "release",
-      "private": false
+      "private": false,
+      "channel": "latest",
+      "vPrefixedTagName": true,
+      "host": "github.com"
     }]
   },
   "keywords": [],
