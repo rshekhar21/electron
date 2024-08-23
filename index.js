@@ -17,18 +17,18 @@ function createWindow() {
     mainWindow.loadFile('src/index.html');
 
     // Check for updates
-    autoUpdater.checkForUpdatesAndNotify();    
+    autoUpdater.checkForUpdatesAndNotify();
     log.info('started');
     log.info('App Verein ' + app.getVersion());
 }
 
 app.on('ready', createWindow);
 
-autoUpdater.on('checking-for-update', ()=>{
+autoUpdater.on('checking-for-update', () => {
     log.info('checking-for-updates...');
 })
 
-autoUpdater.on('update-not-available', ()=>{
+autoUpdater.on('update-not-available', () => {
     log.info('no updates avaliable');
 })
 
@@ -36,8 +36,8 @@ autoUpdater.on('update-available', () => {
     log.info('Update available.');
 });
 
-autoUpdater.on('download-progress', ({percent})=>{
-    log.info('downloaded ' + percent);
+autoUpdater.on('download-progress', (progressObj) => {
+    log.info('downloaded ' + progressObj.percent);
 })
 
 autoUpdater.on('error', (err) => {
