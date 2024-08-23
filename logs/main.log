@@ -88,3 +88,31 @@
 [2024-08-23 12:38:30.065] [info]  started
 [2024-08-23 12:38:30.066] [info]  App Verein 1.0.2
 [2024-08-23 12:38:32.480] [info]  no updates avaliable
+[2024-08-23 12:45:42.014] [info]  checking-for-updates...
+[2024-08-23 12:45:42.018] [info]  started
+[2024-08-23 12:45:42.019] [info]  App Verein 1.0.2
+[2024-08-23 12:45:44.792] [info]  Update available.
+[2024-08-23 12:45:49.003] [info]  downloaded [object Object]
+[2024-08-23 12:45:49.008] [info]  downloaded [object Object]
+[2024-08-23 12:45:50.149] [info]  downloaded [object Object]
+[2024-08-23 12:45:50.156] [info]  downloaded [object Object]
+[2024-08-23 12:45:51.255] [info]  downloaded [object Object]
+[2024-08-23 12:45:51.257] [info]  downloaded [object Object]
+[2024-08-23 12:45:52.716] [info]  downloaded [object Object]
+[2024-08-23 12:45:52.778] [info]  downloaded [object Object]
+[2024-08-23 12:45:54.817] [info]  downloaded [object Object]
+[2024-08-23 12:45:54.829] [info]  downloaded [object Object]
+[2024-08-23 12:45:56.634] [info]  downloaded [object Object]
+[2024-08-23 12:45:56.957] [info]  downloaded [object Object]
+[2024-08-23 12:45:56.970] [info]  downloaded [object Object]
+[2024-08-23 12:45:57.275] [info]  Error in auto-updater: ReferenceError: dialog is not defined
+    at NsisUpdater.<anonymous> (C:\Program Files\electorn-app\resources\app.asar\index.js:50:20)
+    at NsisUpdater.emit (node:events:519:28)
+    at NsisUpdater.dispatchUpdateDownloaded (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:411:14)
+    at Object.done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\BaseUpdater.js:31:22)
+    at done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:523:31)
+    at async NsisUpdater.executeDownload (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:557:16)
+[2024-08-23 12:48:01.210] [info]  checking-for-updates...
+[2024-08-23 12:48:01.213] [info]  started
+[2024-08-23 12:48:01.214] [info]  App Verein 1.0.3
+[2024-08-23 12:48:04.250] [info]  no updates avaliable
