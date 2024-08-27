@@ -1,11 +1,25 @@
-const { app, BrowserWindow, dialog } = require('electron');
+const { app, BrowserWindow, dialog, ipcMain, shell, powerMonitor } = require('electron');
 const { autoUpdater } = require('electron-updater');
+const electronReload = require('electron-reload')(__dirname);
+const sqlite = require("sqlite-electron");
+
+const lock = app.requestSingleInstanceLock(); console.log(lock);
+if(!lock) {
+    app.quit();
+    return
+};
+
 const path = require('path');
 const log = require('electron-log');
+const { createMenu } = require('./menu');
+
+console.log(__dirname);
 log.transports.file.resolvePathFn = () => path.join('C:/Users/RAJ/test-projects/electorn-app', 'logs/main.log');
 
-
+// electronReload(__dirname);
 function createWindow() {
+    
+    createMenu();
     const mainWindow = new BrowserWindow({
         width: 800,
         height: 600,
@@ -13,7 +27,6 @@ function createWindow() {
             preload: path.join(__dirname, 'src', 'preload.js')
         }
     });
-
     mainWindow.loadFile('src/index.html');
 
     // Check for updates
@@ -39,7 +52,6 @@ autoUpdater.on('update-available', () => {
 autoUpdater.on('download-progress', (progressObj) => {
     log.info('downloaded ' + Math.round(progressObj.percent) + '%');
     log.info('Total ' + progressObj.transferred + '/' + progressObj.total)
-    log_message = log_message + ' (' + progressObj.transferred + '/' + progressObj.total + ')'
 })
 
 autoUpdater.on('error', (err) => {
@@ -73,4 +85,9 @@ app.on('activate', () => {
     }
 });
 
+
+ipcMain.handle('test', (e) => {
+    // console.log(e);
+    return 'tst ok';
+})
 

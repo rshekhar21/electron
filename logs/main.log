@@ -1,191 +1,85 @@
-[2024-08-23 12:04:17.788] [info]  started
-[2024-08-23 12:08:07.796] [info]  started
-[2024-08-23 12:17:18.548] [info]  started
-[2024-08-23 12:17:18.552] [info]  App Verein 1.0.1
-[2024-08-23 12:18:06.007] [info]  checking-for-updates...
-[2024-08-23 12:18:06.011] [info]  started
-[2024-08-23 12:18:06.012] [info]  App Verein 1.0.1
-[2024-08-23 12:18:08.641] [info]  no updates avaliable
-[2024-08-23 12:26:18.998] [info]  checking-for-updates...
-[2024-08-23 12:26:19.002] [info]  started
-[2024-08-23 12:26:19.003] [info]  App Verein 1.0.1
-[2024-08-23 12:26:21.786] [info]  Update available.
-[2024-08-23 12:26:25.289] [info]  downloaded [object Object]
-[2024-08-23 12:26:25.290] [info]  downloaded [object Object]
-[2024-08-23 12:26:25.617] [info]  downloaded [object Object]
-[2024-08-23 12:26:26.694] [info]  downloaded [object Object]
-[2024-08-23 12:26:28.232] [info]  downloaded [object Object]
-[2024-08-23 12:26:28.298] [info]  downloaded [object Object]
-[2024-08-23 12:26:30.776] [info]  downloaded [object Object]
-[2024-08-23 12:26:30.783] [info]  downloaded [object Object]
-[2024-08-23 12:26:33.172] [info]  downloaded [object Object]
-[2024-08-23 12:26:34.167] [info]  downloaded [object Object]
-[2024-08-23 12:26:34.177] [info]  downloaded [object Object]
-[2024-08-23 12:26:36.653] [info]  downloaded [object Object]
-[2024-08-23 12:26:37.657] [info]  downloaded [object Object]
-[2024-08-23 12:26:38.665] [info]  downloaded [object Object]
-[2024-08-23 12:26:39.676] [info]  downloaded [object Object]
-[2024-08-23 12:26:40.678] [info]  downloaded [object Object]
-[2024-08-23 12:26:41.682] [info]  downloaded [object Object]
-[2024-08-23 12:26:42.686] [info]  downloaded [object Object]
-[2024-08-23 12:26:43.689] [info]  downloaded [object Object]
-[2024-08-23 12:26:44.694] [info]  downloaded [object Object]
-[2024-08-23 12:26:45.694] [info]  downloaded [object Object]
-[2024-08-23 12:26:46.702] [info]  downloaded [object Object]
-[2024-08-23 12:26:47.706] [info]  downloaded [object Object]
-[2024-08-23 12:26:48.722] [info]  downloaded [object Object]
-[2024-08-23 12:26:49.728] [info]  downloaded [object Object]
-[2024-08-23 12:26:50.738] [info]  downloaded [object Object]
-[2024-08-23 12:26:51.751] [info]  downloaded [object Object]
-[2024-08-23 12:26:52.758] [info]  downloaded [object Object]
-[2024-08-23 12:26:53.760] [info]  downloaded [object Object]
-[2024-08-23 12:26:54.765] [info]  downloaded [object Object]
-[2024-08-23 12:26:55.767] [info]  downloaded [object Object]
-[2024-08-23 12:26:56.802] [info]  downloaded [object Object]
-[2024-08-23 12:26:57.810] [info]  downloaded [object Object]
-[2024-08-23 12:26:58.818] [info]  downloaded [object Object]
-[2024-08-23 12:26:59.833] [info]  downloaded [object Object]
-[2024-08-23 12:27:00.852] [info]  downloaded [object Object]
-[2024-08-23 12:27:01.863] [info]  downloaded [object Object]
-[2024-08-23 12:27:02.868] [info]  downloaded [object Object]
-[2024-08-23 12:27:03.869] [info]  downloaded [object Object]
-[2024-08-23 12:27:04.884] [info]  downloaded [object Object]
-[2024-08-23 12:27:05.900] [info]  downloaded [object Object]
-[2024-08-23 12:27:06.914] [info]  downloaded [object Object]
-[2024-08-23 12:27:07.923] [info]  downloaded [object Object]
-[2024-08-23 12:27:08.924] [info]  downloaded [object Object]
-[2024-08-23 12:27:09.924] [info]  downloaded [object Object]
-[2024-08-23 12:27:10.924] [info]  downloaded [object Object]
-[2024-08-23 12:27:11.931] [info]  downloaded [object Object]
-[2024-08-23 12:27:12.934] [info]  downloaded [object Object]
-[2024-08-23 12:27:13.936] [info]  downloaded [object Object]
-[2024-08-23 12:27:14.944] [info]  downloaded [object Object]
-[2024-08-23 12:27:15.957] [info]  downloaded [object Object]
-[2024-08-23 12:27:16.959] [info]  downloaded [object Object]
-[2024-08-23 12:27:17.964] [info]  downloaded [object Object]
-[2024-08-23 12:27:18.976] [info]  downloaded [object Object]
-[2024-08-23 12:27:19.987] [info]  downloaded [object Object]
-[2024-08-23 12:27:20.987] [info]  downloaded [object Object]
-[2024-08-23 12:27:21.994] [info]  downloaded [object Object]
-[2024-08-23 12:27:22.998] [info]  downloaded [object Object]
-[2024-08-23 12:27:24.012] [info]  downloaded [object Object]
-[2024-08-23 12:27:25.020] [info]  downloaded [object Object]
-[2024-08-23 12:27:26.020] [info]  downloaded [object Object]
-[2024-08-23 12:27:27.027] [info]  downloaded [object Object]
-[2024-08-23 12:27:27.428] [info]  downloaded [object Object]
-[2024-08-23 12:27:27.433] [info]  Error in auto-updater: ReferenceError: dialog is not defined
-    at NsisUpdater.<anonymous> (C:\Program Files\electorn-app\resources\app.asar\index.js:50:20)
-    at NsisUpdater.emit (node:events:519:28)
-    at NsisUpdater.dispatchUpdateDownloaded (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:411:14)
-    at Object.done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\BaseUpdater.js:31:22)
-    at done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:523:31)
-    at async NsisUpdater.executeDownload (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:557:16)
-[2024-08-23 12:37:59.526] [info]  checking-for-updates...
-[2024-08-23 12:37:59.530] [info]  started
-[2024-08-23 12:37:59.530] [info]  App Verein 1.0.1
-[2024-08-23 12:38:01.435] [info]  Update available.
-[2024-08-23 12:38:30.061] [info]  checking-for-updates...
-[2024-08-23 12:38:30.065] [info]  started
-[2024-08-23 12:38:30.066] [info]  App Verein 1.0.2
-[2024-08-23 12:38:32.480] [info]  no updates avaliable
-[2024-08-23 12:45:42.014] [info]  checking-for-updates...
-[2024-08-23 12:45:42.018] [info]  started
-[2024-08-23 12:45:42.019] [info]  App Verein 1.0.2
-[2024-08-23 12:45:44.792] [info]  Update available.
-[2024-08-23 12:45:49.003] [info]  downloaded [object Object]
-[2024-08-23 12:45:49.008] [info]  downloaded [object Object]
-[2024-08-23 12:45:50.149] [info]  downloaded [object Object]
-[2024-08-23 12:45:50.156] [info]  downloaded [object Object]
-[2024-08-23 12:45:51.255] [info]  downloaded [object Object]
-[2024-08-23 12:45:51.257] [info]  downloaded [object Object]
-[2024-08-23 12:45:52.716] [info]  downloaded [object Object]
-[2024-08-23 12:45:52.778] [info]  downloaded [object Object]
-[2024-08-23 12:45:54.817] [info]  downloaded [object Object]
-[2024-08-23 12:45:54.829] [info]  downloaded [object Object]
-[2024-08-23 12:45:56.634] [info]  downloaded [object Object]
-[2024-08-23 12:45:56.957] [info]  downloaded [object Object]
-[2024-08-23 12:45:56.970] [info]  downloaded [object Object]
-[2024-08-23 12:45:57.275] [info]  Error in auto-updater: ReferenceError: dialog is not defined
-    at NsisUpdater.<anonymous> (C:\Program Files\electorn-app\resources\app.asar\index.js:50:20)
-    at NsisUpdater.emit (node:events:519:28)
-    at NsisUpdater.dispatchUpdateDownloaded (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:411:14)
-    at Object.done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\BaseUpdater.js:31:22)
-    at done (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:523:31)
-    at async NsisUpdater.executeDownload (C:\Program Files\electorn-app\resources\app.asar\node_modules\electron-updater\out\AppUpdater.js:557:16)
-[2024-08-23 12:48:01.210] [info]  checking-for-updates...
-[2024-08-23 12:48:01.213] [info]  started
-[2024-08-23 12:48:01.214] [info]  App Verein 1.0.3
-[2024-08-23 12:48:04.250] [info]  no updates avaliable
-[2024-08-23 12:54:12.422] [info]  checking-for-updates...
-[2024-08-23 12:54:12.426] [info]  started
-[2024-08-23 12:54:12.427] [info]  App Verein 1.0.3
-[2024-08-23 12:54:15.285] [info]  Update available.
-[2024-08-23 12:54:18.602] [info]  downloaded [object Object]
-[2024-08-23 12:54:18.608] [info]  downloaded [object Object]
-[2024-08-23 12:54:19.605] [info]  downloaded [object Object]
-[2024-08-23 12:54:19.607] [info]  downloaded [object Object]
-[2024-08-23 12:54:21.074] [info]  downloaded [object Object]
-[2024-08-23 12:54:21.142] [info]  downloaded [object Object]
-[2024-08-23 12:54:23.224] [info]  downloaded [object Object]
-[2024-08-23 12:54:23.234] [info]  downloaded [object Object]
-[2024-08-23 12:54:25.959] [info]  downloaded [object Object]
-[2024-08-23 12:54:26.964] [info]  downloaded [object Object]
-[2024-08-23 12:54:26.976] [info]  downloaded [object Object]
-[2024-08-23 12:54:28.018] [info]  downloaded [object Object]
-[2024-08-23 12:54:50.643] [info]  checking-for-updates...
-[2024-08-23 12:54:50.646] [info]  started
-[2024-08-23 12:54:50.647] [info]  App Verein 1.0.4
-[2024-08-23 12:54:53.071] [info]  no updates avaliable
-[2024-08-23 12:55:13.279] [info]  checking-for-updates...
-[2024-08-23 12:55:13.283] [info]  started
-[2024-08-23 12:55:13.289] [info]  App Verein 1.0.4
-[2024-08-23 12:55:15.479] [info]  no updates avaliable
-[2024-08-23 12:59:14.001] [info]  checking-for-updates...
-[2024-08-23 12:59:14.005] [info]  started
-[2024-08-23 12:59:14.006] [info]  App Verein 1.0.4
-[2024-08-23 12:59:17.469] [info]  Update available.
-[2024-08-23 12:59:21.026] [info]  downloaded [object Object]
-[2024-08-23 12:59:22.246] [info]  downloaded [object Object]
-[2024-08-23 12:59:22.253] [info]  downloaded [object Object]
-[2024-08-23 12:59:23.282] [info]  downloaded [object Object]
-[2024-08-23 12:59:23.294] [info]  downloaded [object Object]
-[2024-08-23 12:59:25.007] [info]  downloaded [object Object]
-[2024-08-23 12:59:25.175] [info]  downloaded [object Object]
-[2024-08-23 12:59:27.134] [info]  downloaded [object Object]
-[2024-08-23 12:59:27.176] [info]  downloaded [object Object]
-[2024-08-23 12:59:28.947] [info]  downloaded [object Object]
-[2024-08-23 12:59:30.092] [info]  downloaded [object Object]
-[2024-08-23 12:59:30.226] [info]  downloaded [object Object]
-[2024-08-23 12:59:58.981] [info]  checking-for-updates...
-[2024-08-23 12:59:58.986] [info]  started
-[2024-08-23 12:59:58.987] [info]  App Verein 1.0.4
-[2024-08-23 13:00:01.288] [info]  Update available.
-[2024-08-23 13:00:45.206] [info]  checking-for-updates...
-[2024-08-23 13:00:45.211] [info]  started
-[2024-08-23 13:00:45.216] [info]  App Verein 1.0.4
-[2024-08-23 13:00:47.464] [info]  Update available.
-[2024-08-23 13:01:13.662] [info]  checking-for-updates...
-[2024-08-23 13:01:13.666] [info]  started
-[2024-08-23 13:01:13.667] [info]  App Verein 1.0.5
-[2024-08-23 13:01:16.361] [info]  no updates avaliable
-[2024-08-23 13:05:09.196] [info]  checking-for-updates...
-[2024-08-23 13:05:09.200] [info]  started
-[2024-08-23 13:05:09.204] [info]  App Verein 1.0.5
-[2024-08-23 13:05:12.260] [info]  Update available.
-[2024-08-23 13:05:15.899] [info]  downloaded 3.22247315193089
-[2024-08-23 13:05:17.146] [info]  downloaded 10.147710195922533
-[2024-08-23 13:05:17.343] [info]  downloaded 12.884676653105185
-[2024-08-23 13:05:18.417] [info]  downloaded 15.1930890011024
-[2024-08-23 13:05:18.430] [info]  downloaded 17.50403884053558
-[2024-08-23 13:05:19.968] [info]  downloaded 17.72282699101446
-[2024-08-23 13:05:20.121] [info]  downloaded 57.19547988192206
-[2024-08-23 13:05:23.247] [info]  downloaded 58.21414172171613
-[2024-08-23 13:05:23.352] [info]  downloaded 74.60591348281977
-[2024-08-23 13:05:25.411] [info]  downloaded 76.91432583081699
-[2024-08-23 13:05:25.416] [info]  downloaded 79.22527567025017
-[2024-08-23 13:05:26.610] [info]  downloaded 81.53368801824739
-[2024-08-23 13:05:26.719] [info]  downloaded 100
-[2024-08-23 13:05:53.408] [info]  checking-for-updates...
-[2024-08-23 13:05:53.412] [info]  started
-[2024-08-23 13:05:53.413] [info]  App Verein 1.0.6
-[2024-08-23 13:05:55.912] [info]  no updates avaliable
+[2024-08-23 14:05:29.127] [info]  checking-for-updates...
+[2024-08-23 14:05:29.132] [info]  started
+[2024-08-23 14:05:29.132] [info]  App Verein 1.0.7
+[2024-08-23 14:05:31.817] [info]  no updates avaliable
+[2024-08-23 14:05:35.726] [info]  checking-for-updates...
+[2024-08-23 14:05:35.730] [info]  started
+[2024-08-23 14:05:35.734] [info]  App Verein 1.0.7
+[2024-08-23 14:05:37.181] [info]  no updates avaliable
+[2024-08-23 16:20:12.451] [info]  started
+[2024-08-23 16:20:12.455] [info]  App Verein 1.0.7
+[2024-08-23 16:21:50.403] [info]  started
+[2024-08-23 16:21:50.408] [info]  App Verein 1.0.7
+[2024-08-23 16:22:27.383] [info]  started
+[2024-08-23 16:22:27.387] [info]  App Verein 1.0.7
+[2024-08-23 16:24:56.453] [info]  started
+[2024-08-23 16:24:56.457] [info]  App Verein 1.0.7
+[2024-08-24 12:36:41.794] [info]  started
+[2024-08-24 12:36:41.805] [info]  App Verein 1.0.7
+[2024-08-24 12:41:53.896] [info]  started
+[2024-08-24 12:41:53.911] [info]  App Verein 1.0.7
+[2024-08-24 12:45:58.020] [info]  started
+[2024-08-24 12:45:58.025] [info]  App Verein 1.0.7
+[2024-08-24 12:46:32.643] [info]  started
+[2024-08-24 12:46:32.648] [info]  App Verein 1.0.7
+[2024-08-24 12:46:47.376] [info]  started
+[2024-08-24 12:46:47.387] [info]  App Verein 1.0.7
+[2024-08-24 13:01:02.251] [info]  started
+[2024-08-24 13:01:02.256] [info]  App Verein 1.0.7
+[2024-08-24 13:02:11.961] [info]  started
+[2024-08-24 13:02:11.967] [info]  App Verein 1.0.7
+[2024-08-24 13:03:00.774] [info]  started
+[2024-08-24 13:03:00.782] [info]  App Verein 1.0.7
+[2024-08-24 13:09:13.763] [info]  started
+[2024-08-24 13:09:13.768] [info]  App Verein 1.0.7
+[2024-08-24 13:11:32.092] [info]  started
+[2024-08-24 13:11:32.096] [info]  App Verein 1.0.7
+[2024-08-24 16:56:11.305] [info]  started
+[2024-08-24 16:56:11.309] [info]  App Verein 1.0.7
+[2024-08-24 17:13:31.213] [info]  started
+[2024-08-24 17:13:31.217] [info]  App Verein 1.0.7
+[2024-08-24 17:21:57.979] [info]  started
+[2024-08-24 17:21:57.983] [info]  App Verein 1.0.7
+[2024-08-24 17:22:51.777] [info]  started
+[2024-08-24 17:22:51.781] [info]  App Verein 1.0.7
+[2024-08-24 17:23:49.785] [info]  started
+[2024-08-24 17:23:49.789] [info]  App Verein 1.0.7
+[2024-08-24 17:34:35.454] [info]  started
+[2024-08-24 17:34:35.459] [info]  App Verein 1.0.7
+[2024-08-24 17:36:09.151] [info]  started
+[2024-08-24 17:36:09.159] [info]  App Verein 1.0.7
+[2024-08-24 17:36:59.798] [info]  started
+[2024-08-24 17:36:59.803] [info]  App Verein 1.0.7
+[2024-08-24 17:40:45.861] [info]  started
+[2024-08-24 17:40:45.866] [info]  App Verein 1.0.7
+[2024-08-27 22:09:02.642] [info]  checking-for-updates...
+[2024-08-27 22:09:02.647] [info]  started
+[2024-08-27 22:09:02.648] [info]  App Verein 1.0.7
+[2024-08-27 22:09:05.568] [info]  no updates avaliable
+[2024-08-27 22:09:16.770] [info]  checking-for-updates...
+[2024-08-27 22:09:16.775] [info]  started
+[2024-08-27 22:09:16.775] [info]  App Verein 1.0.7
+[2024-08-27 22:09:18.434] [info]  no updates avaliable
+[2024-08-27 22:09:47.773] [info]  checking-for-updates...
+[2024-08-27 22:09:47.777] [info]  started
+[2024-08-27 22:09:47.781] [info]  App Verein 1.0.7
+[2024-08-27 22:09:49.916] [info]  no updates avaliable
+[2024-08-27 22:14:22.639] [info]  checking-for-updates...
+[2024-08-27 22:14:22.644] [info]  started
+[2024-08-27 22:14:22.647] [info]  App Verein 1.0.7
+[2024-08-27 22:17:39.687] [info]  started
+[2024-08-27 22:17:39.692] [info]  App Verein 1.0.7
+[2024-08-27 22:18:04.267] [info]  started
+[2024-08-27 22:18:04.276] [info]  App Verein 1.0.7
+[2024-08-27 22:19:32.804] [info]  started
+[2024-08-27 22:19:32.812] [info]  App Verein 1.0.7
+[2024-08-27 22:19:42.100] [info]  started
+[2024-08-27 22:19:42.109] [info]  App Verein 1.0.7
+[2024-08-27 22:20:49.143] [info]  started
+[2024-08-27 22:20:49.148] [info]  App Verein 1.0.7
+[2024-08-27 22:21:02.423] [info]  started
+[2024-08-27 22:21:02.428] [info]  App Verein 1.0.7
+[2024-08-27 22:22:01.999] [info]  started
+[2024-08-27 22:22:02.003] [info]  App Verein 1.0.7
+[2024-08-27 22:22:49.029] [info]  started
+[2024-08-27 22:22:49.033] [info]  App Verein 1.0.7
